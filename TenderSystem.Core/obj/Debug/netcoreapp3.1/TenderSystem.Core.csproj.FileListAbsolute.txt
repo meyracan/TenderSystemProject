@@ -1,0 +1,10 @@
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\bin\Debug\netcoreapp3.1\TenderSystem.Core.deps.json
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\bin\Debug\netcoreapp3.1\TenderSystem.Core.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\bin\Debug\netcoreapp3.1\TenderSystem.Core.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.csproj.AssemblyReference.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.AssemblyInfoInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.AssemblyInfo.cs
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Core\obj\Debug\netcoreapp3.1\TenderSystem.Core.pdb

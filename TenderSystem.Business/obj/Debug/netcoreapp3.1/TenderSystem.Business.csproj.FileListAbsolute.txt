@@ -1,0 +1,17 @@
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Business.deps.json
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Business.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Business.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Core.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.DataAccess.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Entities.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.DataAccess.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Entities.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\bin\Debug\netcoreapp3.1\TenderSystem.Core.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.csproj.AssemblyReference.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.AssemblyInfoInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.AssemblyInfo.cs
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.csproj.CopyComplete
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.Business\obj\Debug\netcoreapp3.1\TenderSystem.Business.pdb

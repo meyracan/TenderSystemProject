@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TenderSystem.Business\TenderSystem.Business.csproj" />
+    <ProjectReference Include="..\TenderSystem.Core\TenderSystem.Core.csproj" />
+    <ProjectReference Include="..\TenderSystem.Entities\TenderSystem.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

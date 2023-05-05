@@ -1,0 +1,15 @@
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.AssemblyInfo.cs
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.DataAccess.deps.json
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.DataAccess.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.DataAccess.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.Core.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.Entities.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.Core.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\bin\Debug\netcoreapp3.1\TenderSystem.Entities.pdb
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.csproj.CopyComplete
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.dll
+C:\Users\MeyraCan\source\repos\TenderSystem\TenderSystem.DataAccess\obj\Debug\netcoreapp3.1\TenderSystem.DataAccess.pdb
